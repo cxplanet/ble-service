@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+    <gatt in="ble-service-gatt.xml" />
+    <hardware in="ble-service-hardware.xml" /> 
+    <script in="ble-service.bgs" />
+    <image out="ble-service.hex" />  
+    <device type="ble113" />  
+</project>
